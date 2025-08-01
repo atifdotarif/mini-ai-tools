@@ -1,0 +1,2 @@
+Input Sentence: I am watching a movie.
+Sentiment: Neutral

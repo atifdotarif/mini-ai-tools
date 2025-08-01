@@ -1,0 +1,2 @@
+Input Sentence: The rainy weather is looking pleasant.
+Sentiment: Positive

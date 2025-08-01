@@ -1,0 +1,2 @@
+Input Sentence: The rise of AI is not good for Programmers.
+Sentiment: Negative

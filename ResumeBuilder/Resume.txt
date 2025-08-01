@@ -1,0 +1,22 @@
+Name:
+  Atif Arif
+
+Summary:
+  AI Engineer intern at Sharkstack with experience in sentiment analysis, OpenAI integration, and resume builder tools. Skilled in Python, FastAPI, ReactJS, Pytorch & EDA. Currently studying at FAST NUCES Karachi in 7th Semester. Certified in NLP from Coursera.
+
+Skills:
+  - Python
+  - FastAPI
+  - ReactJS
+  - Pytorch
+  - EDA
+
+Experience:
+  - AI Engineer Intern at Sharkstack
+
+Education:
+  Studying at FAST NUCES Karachi in 7th Semester
+
+Certifications:
+  - NLP certification from Coursera
+

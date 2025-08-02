@@ -37,17 +37,24 @@ git clone https://github.com/atifdotarif/mini-ai-tools.git
 cd mini-ai-tools
 
 2. **Install dependencies**
+
+```bash
 pip install -r requirements.txt
 
 3. **Set up your .env file**
+
+```bash
 Create a .env file in the root directory and add your OpenAI API key:
 OPEN_API_KEY=your_openai_api_key
 
 4. **Run an application**
+
+```bash
 Each tool can be launched independently:
 python AIBlogWritingAssistant/main.py
 python sentiment_analyzer/main.py
 python ResumeBuilder/main.py
 
+```bash
 ## 💡 Built during AI Internship @ Sharkstack
 ## Created by Atif Arif
